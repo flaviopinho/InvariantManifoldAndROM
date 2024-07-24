@@ -1,5 +1,5 @@
 function [W, R]=invariant_manifold_and_rom_forced(modes, order, A, B, F, E, Omega, style, tol, tol_load, maximum_order)
-% invariant_manifold_and_rom _forced_optimized
+% invariant_manifold_and_rom _forced
 %% Invariant manifold and ROM
 %
 %  Author: Flávio Augusto Xavier Carneiro Pinho
